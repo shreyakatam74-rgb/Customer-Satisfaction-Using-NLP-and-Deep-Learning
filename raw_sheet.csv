@@ -1,0 +1,101 @@
+TicketID,CustomerID,Rating,ResolutionTimeHrs,FeedbackComment
+TK-0001,CUST-0016,2,3.02,Neutral experience. Nothing special.
+TK-0002,CUST-0026,3,2.58,Disappointed with the resolution provided.
+TK-0003,CUST-0023,2,4.71,Excellent service. Loved the experience.
+TK-0004,CUST-0002,4,1.06,Prompt and helpful support.
+TK-0005,CUST-0025,4,2.5,Excellent service. Loved the experience.
+TK-0006,CUST-0015,2,1.48,"Very slow response, not happy."
+TK-0007,CUST-0012,3,2.1,Terrible handling of my query.
+TK-0008,CUST-0003,2,0.29,Neutral experience. Nothing special.
+TK-0009,CUST-0015,1,0.75,Terrible handling of my query.
+TK-0010,CUST-0015,4,6.81,Excellent service. Loved the experience.
+TK-0011,CUST-0005,3,0.2,Disappointed with the resolution provided.
+TK-0012,CUST-0002,2,0.53,Neutral experience. Nothing special.
+TK-0013,CUST-0019,5,2.51,Confusing communication and unclear answers.
+TK-0014,CUST-0030,3,1.79,Terrible handling of my query.
+TK-0015,CUST-0027,4,4.91,Prompt and helpful support.
+TK-0016,CUST-0022,2,1.12,Satisfied with the response time.
+TK-0017,CUST-0028,1,7.93,Prompt and helpful support.
+TK-0018,CUST-0024,4,1.44,"Very slow response, not happy."
+TK-0019,CUST-0013,3,10.79,Satisfied with the response time.
+TK-0020,CUST-0001,3,0.78,Terrible handling of my query.
+TK-0021,CUST-0022,2,14.8,Terrible handling of my query.
+TK-0022,CUST-0024,1,0.58,"Very slow response, not happy."
+TK-0023,CUST-0018,2,0.12,"Very slow response, not happy."
+TK-0024,CUST-0011,5,0.32,"Very slow response, not happy."
+TK-0025,CUST-0025,1,1.65,Neutral experience. Nothing special.
+TK-0026,CUST-0008,5,5.55,Satisfied with the response time.
+TK-0027,CUST-0012,1,3.23,"Very slow response, not happy."
+TK-0028,CUST-0029,2,1.27,Confusing communication and unclear answers.
+TK-0029,CUST-0030,3,2.31,"Issue was fixed eventually, but took too long."
+TK-0030,CUST-0019,4,14.12,"Very slow response, not happy."
+TK-0031,CUST-0021,3,1.41,Prompt and helpful support.
+TK-0032,CUST-0024,1,4.23,"Amazing support, quick resolution!"
+TK-0033,CUST-0003,4,27.44,Confusing communication and unclear answers.
+TK-0034,CUST-0019,2,0.68,Neutral experience. Nothing special.
+TK-0035,CUST-0011,1,5.71,"Issue was fixed eventually, but took too long."
+TK-0036,CUST-0002,4,4.21,"Amazing support, quick resolution!"
+TK-0037,CUST-0012,1,11.62,"Very slow response, not happy."
+TK-0038,CUST-0028,1,1.16,Prompt and helpful support.
+TK-0039,CUST-0023,5,1.9,Neutral experience. Nothing special.
+TK-0040,CUST-0010,3,0.93,Confusing communication and unclear answers.
+TK-0041,CUST-0002,5,2.09,"Amazing support, quick resolution!"
+TK-0042,CUST-0018,3,0.43,Satisfied with the response time.
+TK-0043,CUST-0030,5,6.59,Disappointed with the resolution provided.
+TK-0044,CUST-0018,4,0.39,Confusing communication and unclear answers.
+TK-0045,CUST-0023,1,3.01,"Very slow response, not happy."
+TK-0046,CUST-0002,1,1.32,Neutral experience. Nothing special.
+TK-0047,CUST-0023,4,0.32,Excellent service. Loved the experience.
+TK-0048,CUST-0017,1,4.01,Excellent service. Loved the experience.
+TK-0049,CUST-0009,2,0.85,"Amazing support, quick resolution!"
+TK-0050,CUST-0023,1,6.64,"Very slow response, not happy."
+TK-0051,CUST-0029,1,11.68,"Amazing support, quick resolution!"
+TK-0052,CUST-0029,5,6.9,"Very slow response, not happy."
+TK-0053,CUST-0008,5,2.04,Neutral experience. Nothing special.
+TK-0054,CUST-0027,4,3.07,Disappointed with the resolution provided.
+TK-0055,CUST-0020,5,8.18,Prompt and helpful support.
+TK-0056,CUST-0026,2,6.0,Excellent service. Loved the experience.
+TK-0057,CUST-0025,1,0.39,"Very slow response, not happy."
+TK-0058,CUST-0021,5,1.04,Disappointed with the resolution provided.
+TK-0059,CUST-0019,3,1.22,Prompt and helpful support.
+TK-0060,CUST-0030,5,0.18,"Amazing support, quick resolution!"
+TK-0061,CUST-0007,2,12.64,Terrible handling of my query.
+TK-0062,CUST-0029,5,12.83,Disappointed with the resolution provided.
+TK-0063,CUST-0019,2,3.86,"Amazing support, quick resolution!"
+TK-0064,CUST-0021,1,0.25,"Amazing support, quick resolution!"
+TK-0065,CUST-0006,3,2.79,Excellent service. Loved the experience.
+TK-0066,CUST-0008,5,2.9,Disappointed with the resolution provided.
+TK-0067,CUST-0024,5,0.86,"Issue was fixed eventually, but took too long."
+TK-0068,CUST-0011,5,13.18,"Very slow response, not happy."
+TK-0069,CUST-0027,5,1.33,"Amazing support, quick resolution!"
+TK-0070,CUST-0010,4,3.29,Excellent service. Loved the experience.
+TK-0071,CUST-0025,5,7.73,Prompt and helpful support.
+TK-0072,CUST-0010,3,2.47,"Issue was fixed eventually, but took too long."
+TK-0073,CUST-0028,2,6.18,"Issue was fixed eventually, but took too long."
+TK-0074,CUST-0021,5,10.68,Disappointed with the resolution provided.
+TK-0075,CUST-0015,3,2.71,Disappointed with the resolution provided.
+TK-0076,CUST-0019,1,6.16,Confusing communication and unclear answers.
+TK-0077,CUST-0008,4,6.39,Satisfied with the response time.
+TK-0078,CUST-0010,3,0.05,Satisfied with the response time.
+TK-0079,CUST-0027,1,2.12,Confusing communication and unclear answers.
+TK-0080,CUST-0016,5,5.62,Confusing communication and unclear answers.
+TK-0081,CUST-0012,1,1.13,Neutral experience. Nothing special.
+TK-0082,CUST-0013,4,0.05,Satisfied with the response time.
+TK-0083,CUST-0029,4,10.05,"Issue was fixed eventually, but took too long."
+TK-0084,CUST-0004,1,1.7,Prompt and helpful support.
+TK-0085,CUST-0023,1,0.41,"Issue was fixed eventually, but took too long."
+TK-0086,CUST-0009,1,2.34,Neutral experience. Nothing special.
+TK-0087,CUST-0010,3,2.28,Prompt and helpful support.
+TK-0088,CUST-0027,4,3.18,Disappointed with the resolution provided.
+TK-0089,CUST-0030,3,2.1,Terrible handling of my query.
+TK-0090,CUST-0009,1,0.93,"Very slow response, not happy."
+TK-0091,CUST-0025,3,2.61,"Very slow response, not happy."
+TK-0092,CUST-0010,2,0.22,"Issue was fixed eventually, but took too long."
+TK-0093,CUST-0028,5,2.1,Confusing communication and unclear answers.
+TK-0094,CUST-0027,5,3.05,Satisfied with the response time.
+TK-0095,CUST-0020,1,1.32,"Very slow response, not happy."
+TK-0096,CUST-0018,5,0.39,Satisfied with the response time.
+TK-0097,CUST-0008,4,1.9,Excellent service. Loved the experience.
+TK-0098,CUST-0023,5,2.05,"Amazing support, quick resolution!"
+TK-0099,CUST-0020,4,0.78,"Very slow response, not happy."
+TK-0100,CUST-0028,4,3.46,"Amazing support, quick resolution!"

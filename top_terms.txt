@@ -1,0 +1,39 @@
+Top positive-associated terms:
+experience: 0.0000
+terrible: 0.0000
+unresolved: 0.0000
+satisfied: 0.0000
+thanks: 0.0000
+very: 0.0000
+had: -0.0000
+helpful: -0.0000
+issue: -0.0000
+not: -0.0000
+repeat: -0.0000
+to: -0.0000
+great: -0.0000
+quick: -0.0000
+response: -0.0000
+support: -0.0000
+okay: -0.0000
+service: -0.0000
+
+Top negative-associated terms:
+okay: -0.0000
+service: -0.0000
+great: -0.0000
+quick: -0.0000
+response: -0.0000
+support: -0.0000
+had: -0.0000
+helpful: -0.0000
+issue: -0.0000
+not: -0.0000
+repeat: -0.0000
+to: -0.0000
+satisfied: 0.0000
+thanks: 0.0000
+very: 0.0000
+experience: 0.0000
+terrible: 0.0000
+unresolved: 0.0000
